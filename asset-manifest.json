@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Ecommerce-Website/static/css/main.ed6d8e8b.css",
-    "main.js": "/Ecommerce-Website/static/js/main.419bddc3.js",
+    "main.js": "/Ecommerce-Website/static/js/main.6dbdce05.js",
     "static/media/gun_home.jpg": "/Ecommerce-Website/static/media/gun_home.a2b672af635ca4413fef.jpg",
     "static/media/accessories.jpg": "/Ecommerce-Website/static/media/accessories.470c010cc120be11ca0a.jpg",
     "static/media/a4.png": "/Ecommerce-Website/static/media/a4.c7aa15e9065e25295b5e.png",
@@ -41,12 +41,13 @@
     "static/media/ar15.jpg": "/Ecommerce-Website/static/media/ar15.68b588c7a47fe866f31d.jpg",
     "static/media/nexus.jpg": "/Ecommerce-Website/static/media/nexus.2e5a0858f61846b10bc3.jpg",
     "static/media/optics.jpg": "/Ecommerce-Website/static/media/optics.093c62ab33581b5f0cb7.jpg",
+    "static/media/logo.jpeg": "/Ecommerce-Website/static/media/logo.120663358c1b79635c08.jpeg",
     "index.html": "/Ecommerce-Website/index.html",
     "main.ed6d8e8b.css.map": "/Ecommerce-Website/static/css/main.ed6d8e8b.css.map",
-    "main.419bddc3.js.map": "/Ecommerce-Website/static/js/main.419bddc3.js.map"
+    "main.6dbdce05.js.map": "/Ecommerce-Website/static/js/main.6dbdce05.js.map"
   },
   "entrypoints": [
     "static/css/main.ed6d8e8b.css",
-    "static/js/main.419bddc3.js"
+    "static/js/main.6dbdce05.js"
   ]
 }
