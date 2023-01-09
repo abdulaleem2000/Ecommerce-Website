@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "/Ecommerce-Website/static/css/main.ed6d8e8b.css",
-    "main.js": "/Ecommerce-Website/static/js/main.6dbdce05.js",
+    "main.css": "/Ecommerce-Website/static/css/main.f70e3c30.css",
+    "main.js": "/Ecommerce-Website/static/js/main.8ee90311.js",
     "static/media/gun_home.jpg": "/Ecommerce-Website/static/media/gun_home.a2b672af635ca4413fef.jpg",
+    "static/media/ar15.jpg": "/Ecommerce-Website/static/media/ar15.96a7a54620869389d481.jpg",
     "static/media/accessories.jpg": "/Ecommerce-Website/static/media/accessories.470c010cc120be11ca0a.jpg",
-    "static/media/a4.png": "/Ecommerce-Website/static/media/a4.c7aa15e9065e25295b5e.png",
     "static/media/sako308.jpg": "/Ecommerce-Website/static/media/sako308.9082b870122016c17bc8.jpg",
     "static/media/hammer.jpg": "/Ecommerce-Website/static/media/hammer.eec772e7aeff262f179e.jpg",
+    "static/media/coltcommando.jpg": "/Ecommerce-Website/static/media/coltcommando.699038e5fb3671e948e1.jpg",
     "static/media/mag.jpg": "/Ecommerce-Website/static/media/mag.6d4a8cb0c0c39f3e1463.jpg",
+    "static/media/wood.jpg": "/Ecommerce-Website/static/media/wood.840180fc23bcf4611213.jpg",
     "static/media/ammunation.jpg": "/Ecommerce-Website/static/media/ammunation.5efce455a7e86003c801.jpg",
+    "static/media/a4.png": "/Ecommerce-Website/static/media/a4.225d13fe57fb7075e62d.png",
     "static/media/lr223.jpg": "/Ecommerce-Website/static/media/lr223.e5881dfe350584a9f1fe.jpg",
     "static/media/norino.jpg": "/Ecommerce-Website/static/media/norino.4f34e5ba82e9e2d9c762.jpg",
     "static/media/aug.jpg": "/Ecommerce-Website/static/media/aug.6bbb4e1e364c367d06fa.jpg",
@@ -35,19 +38,16 @@
     "static/media/handguns.jpg": "/Ecommerce-Website/static/media/handguns.c2a598f400d1897bc393.jpg",
     "static/media/gr.jpg": "/Ecommerce-Website/static/media/gr.49ed985a704a4a585638.jpg",
     "static/media/luger.jpg": "/Ecommerce-Website/static/media/luger.d59e6603b296ffb006d1.jpg",
-    "static/media/wood.jpg": "/Ecommerce-Website/static/media/wood.ec00ebccb42ef43ae250.jpg",
-    "static/media/coltcommando.jpg": "/Ecommerce-Website/static/media/coltcommando.8e2514f7e24f1fa6a3df.jpg",
     "static/media/register.jpg": "/Ecommerce-Website/static/media/register.47211050057dd1251a79.jpg",
-    "static/media/ar15.jpg": "/Ecommerce-Website/static/media/ar15.68b588c7a47fe866f31d.jpg",
     "static/media/nexus.jpg": "/Ecommerce-Website/static/media/nexus.2e5a0858f61846b10bc3.jpg",
     "static/media/optics.jpg": "/Ecommerce-Website/static/media/optics.093c62ab33581b5f0cb7.jpg",
     "static/media/logo.jpeg": "/Ecommerce-Website/static/media/logo.120663358c1b79635c08.jpeg",
     "index.html": "/Ecommerce-Website/index.html",
-    "main.ed6d8e8b.css.map": "/Ecommerce-Website/static/css/main.ed6d8e8b.css.map",
-    "main.6dbdce05.js.map": "/Ecommerce-Website/static/js/main.6dbdce05.js.map"
+    "main.f70e3c30.css.map": "/Ecommerce-Website/static/css/main.f70e3c30.css.map",
+    "main.8ee90311.js.map": "/Ecommerce-Website/static/js/main.8ee90311.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed6d8e8b.css",
-    "static/js/main.6dbdce05.js"
+    "static/css/main.f70e3c30.css",
+    "static/js/main.8ee90311.js"
   ]
 }
